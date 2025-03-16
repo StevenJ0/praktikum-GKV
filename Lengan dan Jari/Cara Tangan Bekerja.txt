@@ -1,0 +1,24 @@
+Sebelum ada tambahan jari" 
+	
+	Tangan bekerja di dua bagian yaitu shoulders dan elbow, dimana untuk mengontrol shoulder itu dengan tombol 's' dan 'S' di keyboard
+	dan untuk bagian elbow dengan menggunakan tombol 'e' dan 'E' di keyboard
+
+Setelah ada jari"
+	
+	Untuk elbow dan shoulder masih sama cara mengontrol nya, tetapi terdapat beberapa tambahan : 
+	1. Ibu Jari 
+		Keseluruhan	: Tombol '1' atau '!'
+		Jari		: Tombol 'q' atau 'Q'
+	2. Telunjuk 
+		Keseluruhan 	: Tombol '2' atau '@' 
+		Jari 		: Tombol 'w' atau 'W' 
+	3. Jari Tengah 
+		Keseluruhan 	: Tombol '3' atau '#'
+		Jari		: Tombol 'r' atau 'R'
+	4. Jari Manis
+		Keseluruhan	: Tombol '4' atau '$'
+		Jari		: Tombol 't' atau 'T'
+	5. Kelingking 
+		Keseluruhan 	: Tombol '5' atau '%'
+		Jari		: Tombol 'y' atau 'Y'
+      
